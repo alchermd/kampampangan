@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Kapampangan</string>
+
+    <string name="category_phrases">Phrases</string>
+    <string name="category_numbers">Numbers</string>
+    <string name="category_colors">Colors</string>
+    <string name="category_more">More Words</string>
+
+    <string name="app_credit">John Alcher, 2018</string>
 </resources>
