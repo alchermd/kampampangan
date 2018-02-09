@@ -34,12 +34,14 @@
                 android:layout_width="0dp"
                 android:layout_height="@dimen/category_button_height"
                 android:layout_weight="1"
+                android:id="@+id/phrases_button"
                 android:text="@string/category_phrases" />
 
             <Button
                 android:layout_width="0dp"
                 android:layout_height="@dimen/category_button_height"
                 android:layout_weight="1"
+                android:id="@+id/numbers_button"
                 android:text="@string/category_numbers" />
 
 
@@ -56,12 +58,14 @@
                 android:layout_width="0dp"
                 android:layout_height="@dimen/category_button_height"
                 android:layout_weight="1"
+                android:id="@+id/colors_button"
                 android:text="@string/category_colors" />
 
             <Button
                 android:layout_width="0dp"
                 android:layout_height="@dimen/category_button_height"
                 android:layout_weight="1"
+                android:id="@+id/more_button"
                 android:text="@string/category_more" />
 
         </LinearLayout>
